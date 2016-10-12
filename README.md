@@ -1,15 +1,16 @@
-# Extension for TWCo Forecast Daily
+# Extension for TWCo Forecast Precip Events
 This implementation allows you to connect to APIs provided by The Weather Company from IBM SPSS Modeler. These APIs will require a key so that you can retrieve the actual weather data. Please contact your IBM sales representative so that we can assist you to obtain the key. 
 
 ---
 # Overview
 
 ![Screenshot](./Screenshot/stream.jpg)
+![Screenshot1](./Screenshot/node.jpg)
 ![Screenshot2](./Screenshot/output.jpg)
 
 ---
-# Overview for Standard Site-Based Historical Observations
-10 Day Daily Forecast - Forecast for 24-hour periods starting today for the next 10 days including daytime and nighttime.  Includes narrative text for the language requested
+# Overview for Precip Events
+Precipitation Event Forecast - provides a weather forecast for precipitation events(rain, snow, sleet, freezing rain) onset and offset times for 28 time steps over the next 7 hours.
 
 ---
 # Reference
