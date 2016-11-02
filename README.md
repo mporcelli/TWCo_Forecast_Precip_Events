@@ -15,7 +15,7 @@ Precipitation Event Forecast - provides a weather forecast for precipitation eve
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Forecast Precip Events](http://goo.gl/Y3B4pH)
 
 ---
 #Requirements
